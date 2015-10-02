@@ -40,4 +40,7 @@ public class GitLab implements EntryPoint {
 		Window.alert("Loaded");
 		//12345
 	}
+	public void hhh(){
+		
+	}
 }
