@@ -43,4 +43,7 @@ public class GitLab implements EntryPoint {
 	public void hhh(){
 		//12345
 	}
+	public void gogogo(){
+		
+	}
 }
