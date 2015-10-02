@@ -38,9 +38,9 @@ public class GitLab implements EntryPoint {
 	public void onModuleLoad() {
 	
 		Window.alert("Loaded");
-		//12345
+
 	}
 	public void hhh(){
-		
+		//12345
 	}
 }
